@@ -1,0 +1,24 @@
+{
+  "name": "eccsign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node l_index.js"
+  },
+  "author": "",
+  "dependencies": {
+    "babel-preset-env": "^1.6.0",
+    "babel-preset-stage-0": "^6.24.1",
+    "babel-register": "^6.24.1",
+    "es6-promisify": "^5.0.0",
+    "ethereumjs-testrpc": "^4.0.1",
+    "ethereumjs-util": "^5.1.2",
+    "ethjs-contract": "^0.1.9",
+    "ethjs-provider-http": "^0.1.6",
+    "ethjs-query": "^0.2.9",
+    "solc": "^0.4.15",
+    "web3": "^1.0.0-beta.18"
+  },
+  "license": "ISC"
+}
